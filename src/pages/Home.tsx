@@ -87,5 +87,6 @@ const styles = StyleSheet.create({
   },
   panelToDo: {
     margin: 24,
+    flex: 1,
   },
 });
